@@ -1,2 +1,2 @@
 # External_Projects
-Repo for public facing projects
+Repo for public-facing projects
