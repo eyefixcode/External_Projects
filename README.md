@@ -1,6 +1,4 @@
-# External_Projects
-Repo for public facing projects
-Exploratory data analysis (EDA): Choose a dataset of interest and perform EDA on it. Use Python or R to create visualizations, perform statistical analyses, and gain insights into the data.
+# Exploratory data analysis (EDA): Choose a dataset of interest and perform EDA on it. Use Python or R to create visualizations, perform statistical analyses, and gain insights into the data.
             1.	Analyze Airbnb rental data for a specific city or region to identify factors that influence rental prices.
             2.	Analyze the frequency and sentiment of social media posts related to a particular brand or product.
             3.	Analyze a dataset of medical records to identify factors that contribute to patient readmissions.
